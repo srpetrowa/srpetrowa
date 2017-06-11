@@ -25,7 +25,7 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 47B6B6 #009D9D #80B3FF
+  primary: E8CAAC #009D9D #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 48B6B7 #18346d #2a59b7 #1B3147 #2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
@@ -53,7 +53,7 @@ address:
   - line: Baden-Würtenderg, Germany
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Based on the Freelancer Jekyll theme  by Jerome Lachaud.'
 
 # Build settings
 markdown: kramdown

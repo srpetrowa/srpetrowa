@@ -8,8 +8,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Prototype for a personal-trainer webpage. Visit the page here&#58; some link.
-
 ---
 
-
+Prototype for a personal-trainer webpage. Visit the page here&#58; [https://srpetrowa.github.io/bobifit](https://srpetrowa.github.io/bobifit)
