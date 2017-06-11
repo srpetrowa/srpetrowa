@@ -49,8 +49,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 76185 Karlsruhe
-  - line: Baden-Würtenderg, Germany
+  - line: Karlsruhe
+  - line: Baden-Württenderg, Germany
 
 # Credits content
 credits: 'Based on the Freelancer Jekyll theme  by Jerome Lachaud.'
